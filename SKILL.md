@@ -4,7 +4,8 @@ description: Clarify the competitive advantage and value proposition that will c
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4182
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - how-to-win-diagnosis
 - structure
